@@ -8,6 +8,6 @@
 </head>
 <body>
 	<h1>Web_study</h1>
-	<h2>home</h2>
+	<h2>mainpage</h2>
 </body>
 </html>
